@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/29fc3aca-033d-4037-a160-4d0abc1ab27c/deploy-status)](https://app.netlify.com/sites/okcoders-notes/deploys)
+
 # Introduction
 
 These are the notes for OK Coders
