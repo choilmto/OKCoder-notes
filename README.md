@@ -71,7 +71,7 @@ These are the notes for OK Coders
 - Using Prisma
 - Migrations
 
-## Week 6: Redwood
+## Week 6: Redwood (cont'd)
 
 ### Session 1
 - Scaffolding
