@@ -41,7 +41,7 @@ These are the notes for OK Coders
 - Nested queries
 - Bidirectional relations
 
-## Week 4: GraphQL
+## Week 4: GraphQL (cont'd)
 
 ### Session 1
 - Mutations
