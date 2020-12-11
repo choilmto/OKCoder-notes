@@ -107,5 +107,5 @@ The app has a sketch: ![sketch](sketch.jpg)
 # Thanks
 
 Thank you to [Milecia McGregor](https://twitter.com/flippedcoding?lang=en) for
-teaching class, [OK Coders](https://www.okcoders.com/) for hosting, and other
-fellow students for their contributions.
+teaching the class, [OK Coders](https://www.okcoders.com/) for hosting, and
+other fellow students for their contributions.
